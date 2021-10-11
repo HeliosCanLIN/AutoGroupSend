@@ -1,0 +1,43 @@
+#1080p（1920*1080：缩放100%）
+#4K（3840*2160：缩放200%）
+
+#测试模式
+testmode : 0
+#睡眠参数
+sleep : 0.1
+#列表制定中要点击群聊的位置（1080p：x130：y160 4K:数值乘以2）弃用 -0730更新
+pointAx : 130
+pointAy : 205
+#点开群列表的位置（1080p：x700：y0 4K:数值乘以2）弃用 -0730更新
+pointBx : 700
+pointBy : 50
+#展开群员列表的位置（1080p：x1450：y825 4K:数值乘以2）（改成一个鼠标放上去能滚动到群员列表的位置即可）
+pointCx : 1450
+pointCy : 825
+#滚动一行需要的像素（此项 滚动过多或是不满足1080p配置显示配置 才需要改）
+row : 87
+#附件位置（1080p：x650：y1000 4K:数值乘以2）弃用 -0730更新
+pointDx : 650
+pointDy : 1000
+#图片位置（1080p：x650：y940 4K:数值乘以2）弃用 -0730更新
+pointEx : 650
+pointEy : 940
+
+#图像识别
+#加号
+plusPng : plus4.png
+accountplusPng : plus.png
+seletPng : seletplus.png
+#信息
+msgPng : Msg.png
+#发送键
+sentPng : sent.png
+#管理员
+adminPng : admin.png
+#图片文件夹
+filePath : C:\Users\Bynkah\Desktop\whatsapp
+#需要发送图片？（需要1 不需要0）
+needSentPicture : 1
+needSentMessage : 1
+groupbroadcast : 1
+msg : "How to earn 1000 USD by doing importation with 0 budget from China. Click to view 1688 cheap products on af.myyshop.com. Naira or credit card payment are available with fast delivery. We are shipping agent in Guangzhou China."
